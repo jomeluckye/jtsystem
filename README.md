@@ -1,3 +1,7 @@
+# jtsystem
+Building full fledge company application with Mongdb, Express, React and Nodejs
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
